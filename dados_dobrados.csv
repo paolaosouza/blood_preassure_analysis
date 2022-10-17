@@ -1,4 +1,4 @@
-ID,Idade,IMC,Sexo,Comprimento,Circunferência,Tríceps,Circunferência Muscular,Índice de Gordura,PAD,PAS
+ID,Age,BMI,Sex,Length,Circumference,Triceps_Skinfold, Muscular Circumference, Fat_Index,DBP,SBP
 2,20,20.7,f,28.83,25.33,22.33,18.32,0.449823225,57.33,100.67
 4,20,19.8,f,34.13,22.4,24.0,14.86,0.545678001,58.67,98.33
 6,19,25.2,f,29.43,28.87,37.33,17.14,0.554794521,64.33,101.33
